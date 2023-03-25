@@ -28,8 +28,8 @@
 
 ## Client server architecture:
 
-[Collections"Orders"](https://github.com/AlexeyLobanov1/MongoDB/blob/main/Collections%22Orders%22.json)
+[Collections"Orders"](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/OSI.jpg)
 
 ##OSI-model:
 
-![osi-model](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/osi-model.jpg)
+![osi-model](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/OSI.jpg)
