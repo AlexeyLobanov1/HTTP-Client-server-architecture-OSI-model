@@ -28,11 +28,11 @@
 
 ## Client server architecture:
 
-![Простой,клиент-сервер.](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/%D0%A1%D0%B0%D0%BC%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9%2C%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80.jpg)
+![The simplest, client-server.](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/The%20simplest%2C%20client-server.jpg)
 
-![Клиент - Сервер - БД](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/%D0%A7%D1%83%D1%82%D1%8C%20%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%B5%D0%B5%2C%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%20-%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20-%20%20%D0%91%D0%94.jpg)
+![A little more complicated, client - server - database](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/A%20little%20more%20complicated%2C%20client%20-%20server%20-%20database.jpg)
 
-![Много Клиентов - Много Серверов - Много БД](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.jpg)
+![Example of large application sites](https://github.com/AlexeyLobanov1/HTTP-Client-server-architecture-OSI-model/blob/main/Example%20of%20large%20application%20sites.jpg)
 
 ## OSI-model:
 
